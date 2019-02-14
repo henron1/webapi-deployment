@@ -20,4 +20,4 @@ module.exports = {
   },
 };
 
-const environment = process.env.DB
+// const environment = process.env.DB
